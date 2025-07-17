@@ -172,8 +172,8 @@
 <url>http://localhost:8080/manager/text</url>
 <server>TomcatServer</server>
 <path>/webapps</path>
-<username>admin</username>
-<password>admin</password>
+<username>Naveen</username>
+<password>Naveen</password>
 </configuration>
 </plugin>
         </plugins>
